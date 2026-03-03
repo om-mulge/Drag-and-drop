@@ -3,7 +3,7 @@ let lists = document.getElementsByClassName("list");
 let leftBox = document.getElementById("left");
 let rightBox = document.getElementById("right");
 
-// loop for all list item
+// loop for all list itemS
 for (let list of lists) {
     list.addEventListener("dragstart", function (e) {
         let selected = e.target;

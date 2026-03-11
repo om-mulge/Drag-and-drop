@@ -1,4 +1,4 @@
-// get elements
+// get elements..
 let lists = document.getElementsByClassName("list");
 let leftBox = document.getElementById("left");
 let rightBox = document.getElementById("right");

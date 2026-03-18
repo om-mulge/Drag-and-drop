@@ -18,7 +18,7 @@ for (let list of lists) {
             selected = null;
         });
 
-        // drgging back to left box...
+        // drgging back to left box
         leftBox.addEventListener("dragover", function (e) {
             e.preventDefault();
         });
